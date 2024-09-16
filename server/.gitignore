@@ -1,0 +1,21 @@
+# Configuration files
+config.ini
+.env
+
+# Generated folders
+/node_modules/
+/dist/
+
+# Backup files
+*.bak
+*.swp
+
+# Log files
+*.log
+
+# Dependency files
+package-lock.json
+yarn.lock
+
+# misc
+.DS_Store
