@@ -55,8 +55,6 @@ Clonez le dépot du projet :
    npm start
    ```
 
-## Fabriqué avec
-
 ## Technologies utilisées
 
 ### Front-end
