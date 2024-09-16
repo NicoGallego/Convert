@@ -1,5 +1,3 @@
-import React from 'react';
-import { InputNumber, Spin, Select } from 'antd';
 
 interface ConvertResultProps {
   amount: number | null;
